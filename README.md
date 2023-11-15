@@ -20,10 +20,6 @@ The Iris dataset used in this project is sourced from **Kaggle**. The dataset co
 + Analyze any correlations or patterns in the data.
 + Gain insights into the Iris flower species and their distinguishing features.
 
-### Feature Engineering: (Not needed in this project)
-
-+ If required, apply feature engineering techniques such as feature scaling, dimensionality reduction, or creating new features based on domain knowledge.
-
 
 ### Data Splitting:
 
@@ -54,8 +50,6 @@ The Iris dataset used in this project is sourced from **Kaggle**. The dataset co
 ## Repository Structure
 + *iris.csv*: Directory to store the Iris dataset and any additional data files.
 + _iris-flower-classification.ipynb_: Jupyter notebooks documenting the step-by-step process of the project.
-+ _app.py_: Python script for the Streamlit web application.
-+ _requirements.txt_: List of required packages and their versions.
 + _README.md_: Readme file explaining the project, its steps, and deployment instructions.
 
 
